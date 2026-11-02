@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python Pro",
+  "description": "Calculadora interativa em Python com porcentagem contextualizada, simulação CLI, suíte de testes unitários automatizados e histórico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
